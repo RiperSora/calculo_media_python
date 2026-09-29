@@ -1,2 +1,2 @@
 # calculo_media_python
-Calculadora de Médias em pythom
+Calculadora de Médias em python
